@@ -6,10 +6,7 @@ Kong is a cloud-native, fast, scalable, and distributed Microservice
 Abstraction Layer *(also known as an API Gateway, API Middleware or in some
 cases Service Mesh)*.
 
-Backed by the battle-tested NGINX with a focus on high performance, Kong
-was made available as an open-source platform in 2015. Under active
-development, Kong is used in production at thousands of companies from
-startups, Global 5000 and government organizations.
+Kong was made available as an open-source platform in 2015 and it's focused on high performance and extensibility. Under active development, Kong is used in production at thousands of companies from startups, Global 5000 and government organizations.
 
 [Installation](https://getkong.org/install) |
 [Documentation](https://getkong.org/docs) |
